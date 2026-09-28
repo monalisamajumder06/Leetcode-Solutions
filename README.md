@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
