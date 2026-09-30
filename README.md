@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,5 +101,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
