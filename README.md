@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Sorting
@@ -111,8 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 <!---LeetCode Topics End-->
