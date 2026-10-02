@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0507-perfect-number](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Hash Table
