@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
