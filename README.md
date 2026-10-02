@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0258-add-digits](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
