@@ -1,13 +1,16 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int lastseen [3] = {-1,-1,-1};
-        int count = 0;
-        for ( int i = 0 ; i < s.size(); i++){
-            lastseen [ s[i] - 'a'] = i;
-            if (lastseen[0] != -1 && lastseen[1] != -1 && lastseen [2] != -1){
-                count = count + (1 + min (lastseen[0] , min(lastseen[1] , lastseen[2])));
+        int l=0,r=0,count=0;
+        map<int,int> mpp;
+        while(r<s.size()){
+            mpp[s[r]]++;
+            while(mpp['a']>=1 && mpp['b']>=1 && mpp['c']>=1){
+                mpp[s[l]]--;
+                l++;
             }
+            count = count + l;
+            r++;
         }
         return count;
     }
