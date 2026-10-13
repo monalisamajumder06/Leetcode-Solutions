@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0860-lemonade-change](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
