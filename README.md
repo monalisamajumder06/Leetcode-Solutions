@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0860-lemonade-change](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
