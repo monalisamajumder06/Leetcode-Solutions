@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1446-consecutive-characters](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1929-concatenation-of-array](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
