@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2235-add-two-integers](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2409-count-days-spent-together](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1929-concatenation-of-array](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/monalisamajumder06/Leetcode-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
